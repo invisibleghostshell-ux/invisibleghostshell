@@ -1,0 +1,218 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\oluwa\\anaconda3\\pkgs\\altgraph-0.17.3-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/altgraph-0.17.3.dist-info/INSTALLER",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/LICENSE",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/METADATA",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/RECORD",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/REQUESTED",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/WHEEL",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/direct_url.json",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/top_level.txt",
+    "Lib/site-packages/altgraph-0.17.3.dist-info/zip-safe",
+    "Lib/site-packages/altgraph/Dot.py",
+    "Lib/site-packages/altgraph/Graph.py",
+    "Lib/site-packages/altgraph/GraphAlgo.py",
+    "Lib/site-packages/altgraph/GraphStat.py",
+    "Lib/site-packages/altgraph/GraphUtil.py",
+    "Lib/site-packages/altgraph/ObjectGraph.py",
+    "Lib/site-packages/altgraph/__init__.py",
+    "Lib/site-packages/altgraph/__pycache__/Dot.cpython-312.pyc",
+    "Lib/site-packages/altgraph/__pycache__/Graph.cpython-312.pyc",
+    "Lib/site-packages/altgraph/__pycache__/GraphAlgo.cpython-312.pyc",
+    "Lib/site-packages/altgraph/__pycache__/GraphStat.cpython-312.pyc",
+    "Lib/site-packages/altgraph/__pycache__/GraphUtil.cpython-312.pyc",
+    "Lib/site-packages/altgraph/__pycache__/ObjectGraph.cpython-312.pyc",
+    "Lib/site-packages/altgraph/__pycache__/__init__.cpython-312.pyc",
+    ".nonadmin"
+  ],
+  "fn": "altgraph-0.17.3-py312haa95532_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\oluwa\\anaconda3\\pkgs\\altgraph-0.17.3-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "fc58abbf03d59da7a849dbd13dc4e2fc",
+  "name": "altgraph",
+  "package_tarball_full_path": "C:\\Users\\oluwa\\anaconda3\\pkgs\\altgraph-0.17.3-py312haa95532_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46",
+        "sha256_in_prefix": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46",
+        "size_in_bytes": 1002
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "72e959690497ca1d94a0b9b13b0dd963696a659c8a0a79e9dd9026faa1015f2c",
+        "sha256_in_prefix": "72e959690497ca1d94a0b9b13b0dd963696a659c8a0a79e9dd9026faa1015f2c",
+        "size_in_bytes": 7691
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f5f9a39ce4ebf17cb31bc66bd3a49526a8e9778ba6d36349eb58fb4b0d76c321",
+        "sha256_in_prefix": "f5f9a39ce4ebf17cb31bc66bd3a49526a8e9778ba6d36349eb58fb4b0d76c321",
+        "size_in_bytes": 1654
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "sha256_in_prefix": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7a543fac4f0248b5c75f91575d2179b03cdffa4d97d9cf198a898789af6361bd",
+        "sha256_in_prefix": "7a543fac4f0248b5c75f91575d2179b03cdffa4d97d9cf198a898789af6361bd",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1c405e4567f922d54f73b63d856ee11a5acb5d98cfa0be1bcba08084157f0700",
+        "sha256_in_prefix": "1c405e4567f922d54f73b63d856ee11a5acb5d98cfa0be1bcba08084157f0700",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "Lib/site-packages/altgraph-0.17.3.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/Dot.py",
+        "path_type": "hardlink",
+        "sha256": "7c74be1a8ce97042b25b15b6bf5d7425a14c4baf2221cd286059450ee35080e4",
+        "sha256_in_prefix": "7c74be1a8ce97042b25b15b6bf5d7425a14c4baf2221cd286059450ee35080e4",
+        "size_in_bytes": 9901
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/Graph.py",
+        "path_type": "hardlink",
+        "sha256": "e9be9f4872c0e504aa3039d21c83bbfd626705821dab72b906df158a944e0f08",
+        "sha256_in_prefix": "e9be9f4872c0e504aa3039d21c83bbfd626705821dab72b906df158a944e0f08",
+        "size_in_bytes": 20788
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/GraphAlgo.py",
+        "path_type": "hardlink",
+        "sha256": "52ef5a4e348a5a2dfc890fdef59af00a7cd0688d565850e127a91f9aed23c400",
+        "sha256_in_prefix": "52ef5a4e348a5a2dfc890fdef59af00a7cd0688d565850e127a91f9aed23c400",
+        "size_in_bytes": 5645
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/GraphStat.py",
+        "path_type": "hardlink",
+        "sha256": "be3dd5a823a4ce900a820c5514b13f0253087cf9b558dd7b0d7e2b6d98d7031e",
+        "sha256_in_prefix": "be3dd5a823a4ce900a820c5514b13f0253087cf9b558dd7b0d7e2b6d98d7031e",
+        "size_in_bytes": 1890
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/GraphUtil.py",
+        "path_type": "hardlink",
+        "sha256": "d53e0325cd9b267e84214fc2b789b4a222a55d6917bea71713c0862f62bd7a7f",
+        "sha256_in_prefix": "d53e0325cd9b267e84214fc2b789b4a222a55d6917bea71713c0862f62bd7a7f",
+        "size_in_bytes": 3990
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/ObjectGraph.py",
+        "path_type": "hardlink",
+        "sha256": "a3b7cf26dc811202525c09148f3be3df907e14e638b8acdf2c6a92bd38adc7c7",
+        "sha256_in_prefix": "a3b7cf26dc811202525c09148f3be3df907e14e638b8acdf2c6a92bd38adc7c7",
+        "size_in_bytes": 6490
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "62d63eac77fa5ff95893cf36d1d6b6b95653f82f81f4a1a9197bc1835a19d057",
+        "sha256_in_prefix": "62d63eac77fa5ff95893cf36d1d6b6b95653f82f81f4a1a9197bc1835a19d057",
+        "size_in_bytes": 5015
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/Dot.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "28c61e8c5ac8e90ec8d91e87ef852a31a595191d6182630957a310ad765e52e6",
+        "sha256_in_prefix": "28c61e8c5ac8e90ec8d91e87ef852a31a595191d6182630957a310ad765e52e6",
+        "size_in_bytes": 11620
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/Graph.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "042da39eed2d910029a001a7379b2d4bd0a9a8a771b3c37eaa32de5a4db62f25",
+        "sha256_in_prefix": "042da39eed2d910029a001a7379b2d4bd0a9a8a771b3c37eaa32de5a4db62f25",
+        "size_in_bytes": 26798
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/GraphAlgo.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5aec32c6b7a964d79569e5255e569d3a0b7da3e79a26b937f88142f26e5b770",
+        "sha256_in_prefix": "d5aec32c6b7a964d79569e5255e569d3a0b7da3e79a26b937f88142f26e5b770",
+        "size_in_bytes": 7060
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/GraphStat.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "81fd26ce76847883c391c150448c776a8c87b1d806b588eb6a8d085a0c654d80",
+        "sha256_in_prefix": "81fd26ce76847883c391c150448c776a8c87b1d806b588eb6a8d085a0c654d80",
+        "size_in_bytes": 2365
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/GraphUtil.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e12125ed99fbfffc9ccc9307a5186f759757ff523fc3ffb154a2609c5c95a487",
+        "sha256_in_prefix": "e12125ed99fbfffc9ccc9307a5186f759757ff523fc3ffb154a2609c5c95a487",
+        "size_in_bytes": 4678
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/ObjectGraph.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "20eb1545deb329f36c973bc98cd9112f4ec7065876ab826559ed029bf231e9a9",
+        "sha256_in_prefix": "20eb1545deb329f36c973bc98cd9112f4ec7065876ab826559ed029bf231e9a9",
+        "size_in_bytes": 10079
+      },
+      {
+        "_path": "Lib/site-packages/altgraph/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1520052b5602c4d4307b51343c1d15a5cc5aee7d91dc363c5737a59307c1f2f7",
+        "sha256_in_prefix": "1520052b5602c4d4307b51343c1d15a5cc5aee7d91dc363c5737a59307c1f2f7",
+        "size_in_bytes": 5399
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0f31947f017d5a7ac8f21b81221310c74fbb1fae9b7523814681ae4e33e8b705",
+  "size": 41994,
+  "subdir": "win-64",
+  "timestamp": 1699497378000,
+  "url": "https://conda.anaconda.org/anaconda/win-64/altgraph-0.17.3-py312haa95532_0.tar.bz2",
+  "version": "0.17.3"
+}

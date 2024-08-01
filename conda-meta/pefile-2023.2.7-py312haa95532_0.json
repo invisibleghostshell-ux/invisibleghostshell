@@ -1,0 +1,178 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\oluwa\\anaconda3\\pkgs\\pefile-2023.2.7-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/pefile.cpython-312.pyc",
+    "Lib/site-packages/__pycache__/peutils.cpython-312.pyc",
+    "Lib/site-packages/ordlookup/__init__.py",
+    "Lib/site-packages/ordlookup/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/ordlookup/__pycache__/oleaut32.cpython-312.pyc",
+    "Lib/site-packages/ordlookup/__pycache__/ws2_32.cpython-312.pyc",
+    "Lib/site-packages/ordlookup/oleaut32.py",
+    "Lib/site-packages/ordlookup/ws2_32.py",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/INSTALLER",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/LICENSE",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/METADATA",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/RECORD",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/REQUESTED",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/WHEEL",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/direct_url.json",
+    "Lib/site-packages/pefile-2023.2.7.dist-info/top_level.txt",
+    "Lib/site-packages/pefile.py",
+    "Lib/site-packages/peutils.py",
+    ".nonadmin"
+  ],
+  "fn": "pefile-2023.2.7-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\oluwa\\anaconda3\\pkgs\\pefile-2023.2.7-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "d16749c111122afe1d1bd06e00d90581",
+  "name": "pefile",
+  "package_tarball_full_path": "C:\\Users\\oluwa\\anaconda3\\pkgs\\pefile-2023.2.7-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/pefile.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "96805e3eae44874d85badbef5d3e0ae4acf75021c5b0380d5bdc721970841774",
+        "sha256_in_prefix": "96805e3eae44874d85badbef5d3e0ae4acf75021c5b0380d5bdc721970841774",
+        "size_in_bytes": 266516
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/peutils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "44f203419004f5e2687639cd164eafcb609364fe46870edde8cc79702d62e313",
+        "sha256_in_prefix": "44f203419004f5e2687639cd164eafcb609364fe46870edde8cc79702d62e313",
+        "size_in_bytes": 14457
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a95df6e43bea93d1d81a517605792348053c36202a1a4f7083a6dc180ec33026",
+        "sha256_in_prefix": "a95df6e43bea93d1d81a517605792348053c36202a1a4f7083a6dc180ec33026",
+        "size_in_bytes": 784
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1dfb241235225ba87a790a4760691ee3409c1b1731c044268e30c80a510c19a",
+        "sha256_in_prefix": "e1dfb241235225ba87a790a4760691ee3409c1b1731c044268e30c80a510c19a",
+        "size_in_bytes": 1096
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__pycache__/oleaut32.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3f1b38a693c86b4445d4c8c89c840629c3b881584805cb41552d8e5b130ae53f",
+        "sha256_in_prefix": "3f1b38a693c86b4445d4c8c89c840629c3b881584805cb41552d8e5b130ae53f",
+        "size_in_bytes": 19104
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__pycache__/ws2_32.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d7afeeb661628d1ce30a0a9d671d4ad1a81a35bd51d3af3f2022f9e0c342eed6",
+        "sha256_in_prefix": "d7afeeb661628d1ce30a0a9d671d4ad1a81a35bd51d3af3f2022f9e0c342eed6",
+        "size_in_bytes": 5289
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/oleaut32.py",
+        "path_type": "hardlink",
+        "sha256": "8346cd7072d1b87fe75bbe71a996ed6593564eb39505b74457c5bbbf1cf43ae7",
+        "sha256_in_prefix": "8346cd7072d1b87fe75bbe71a996ed6593564eb39505b74457c5bbbf1cf43ae7",
+        "size_in_bytes": 10877
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/ws2_32.py",
+        "path_type": "hardlink",
+        "sha256": "832f959ebb7ac959b337cb1ba8b40449a370167676a238782ec880ab9203aee0",
+        "sha256_in_prefix": "832f959ebb7ac959b337cb1ba8b40449a370167676a238782ec880ab9203aee0",
+        "size_in_bytes": 3265
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "bfd4b5e4f8a99c961fd6f94d708e38396cc146bfe8fbc5d2a86e63aa29fb4208",
+        "sha256_in_prefix": "bfd4b5e4f8a99c961fd6f94d708e38396cc146bfe8fbc5d2a86e63aa29fb4208",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8841c7869447cabaf90aa1ae1ba5bb27e19d1c4d6fbaa985ae7c87aab0e9f1d4",
+        "sha256_in_prefix": "8841c7869447cabaf90aa1ae1ba5bb27e19d1c4d6fbaa985ae7c87aab0e9f1d4",
+        "size_in_bytes": 1386
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2d88c7b27ad14ea9644ed215493fb7ef19c1b88dce16d4bfe38609910343f3cd",
+        "sha256_in_prefix": "2d88c7b27ad14ea9644ed215493fb7ef19c1b88dce16d4bfe38609910343f3cd",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "189eedfe4581172c1b6a02b97a8f48a14c0b5baa3239e4ca990fbd8871553714",
+        "sha256_in_prefix": "189eedfe4581172c1b6a02b97a8f48a14c0b5baa3239e4ca990fbd8871553714",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "11dd85dd5c096b30560cfb2c269687fec6ec5968bb814b655155e36e82da63a3",
+        "sha256_in_prefix": "11dd85dd5c096b30560cfb2c269687fec6ec5968bb814b655155e36e82da63a3",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "Lib/site-packages/pefile-2023.2.7.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7bf125792b9950e40a7171c92ecdac49e1a4c46e0e6608542dc09cfefea441ba",
+        "sha256_in_prefix": "7bf125792b9950e40a7171c92ecdac49e1a4c46e0e6608542dc09cfefea441ba",
+        "size_in_bytes": 25
+      },
+      {
+        "_path": "Lib/site-packages/pefile.py",
+        "path_type": "hardlink",
+        "sha256": "f99468cfed1930e8e9036a4bf4fcb9b23acb28c4e5421e215ce352a5ccdc811f",
+        "sha256_in_prefix": "f99468cfed1930e8e9036a4bf4fcb9b23acb28c4e5421e215ce352a5ccdc811f",
+        "size_in_bytes": 292005
+      },
+      {
+        "_path": "Lib/site-packages/peutils.py",
+        "path_type": "hardlink",
+        "sha256": "2a643624ede8b205e0ba025118cfff09dc0d55c3375fac7386e1ee708ff9bf48",
+        "sha256_in_prefix": "2a643624ede8b205e0ba025118cfff09dc0d55c3375fac7386e1ee708ff9bf48",
+        "size_in_bytes": 18361
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e0ae342a515b810cdb3668d2432911ab8d588e2fea1f46f0786fa31ad500fa87",
+  "size": 173337,
+  "subdir": "win-64",
+  "timestamp": 1720651829000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pefile-2023.2.7-py312haa95532_0.conda",
+  "version": "2023.2.7"
+}
